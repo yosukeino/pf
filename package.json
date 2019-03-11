@@ -1,0 +1,16 @@
+{
+  "name": "Desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hoepage":"https://yosukeino.github.io/test",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
