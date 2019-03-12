@@ -36,6 +36,6 @@
         diff = elapsedTime - 5.0;
         if (Math.abs(diff) < 1.0) {
             result.className = 'perfect';
-        }
+        } 
     });
 }
