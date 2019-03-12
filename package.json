@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "hoepage":"https://yosukeino.github.io/test",
+  "homepage":"https://yosukeino.github.io/pf",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
