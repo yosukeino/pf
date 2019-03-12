@@ -1,0 +1,35 @@
+body {
+    background: #FAB496;
+}
+
+.box {
+    background: #fff;
+    border-radius: 20px;
+    color: #375A7D;
+    padding: 1em;
+}
+
+#btn {
+    width: 200px;
+    height: 200px;
+    background: #6E5A7D;
+    border-radius: 50%;
+    margin: 30px auto 0;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+    font-size: 42px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 10px 0 #4F4059;
+    user-select: none;
+}
+
+#btn:hover {
+    opacity: 0.9;
+}
+
+#btn.pressed {
+    box-shadow: 0 10px 0 #4F4059;
+    margin-top: 35px;
+}
