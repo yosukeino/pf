@@ -1,0 +1,42 @@
+.container {
+    padding: 15px;
+    background: #1B2C3D;
+    color: #fff;
+    text-align: center;
+    margin: 20px auto;
+    width: 300px;
+}
+
+#timer {
+    font-size: 20px;
+    width: 200px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    margin: 0 auto 15px;
+    background: #315170;
+}
+
+.btn {
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    width: 80px;
+    height: 45px;
+    line-height: 45px;
+    background: #4F4059;
+    float: left;
+    user-select: none;
+}
+
+.controls {
+    overflow: hidden;
+}
+
+.btn + .btn {
+    margin-left: 15px;
+}
+
+.inactive {
+    opacity: 0.6;
+}
